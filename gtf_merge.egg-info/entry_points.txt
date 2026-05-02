@@ -1,0 +1,2 @@
+[console_scripts]
+gtf-merge = gtf_merge.cli:main

@@ -1,0 +1,4 @@
+gtf_path	sample_id	cap_status	priority	metadata
+sample1_brain.gtf	brain_rep1	no_cap	1	tissue:brain
+sample2_liver.gtf	liver_rep1	no_cap	1	tissue:liver
+sample3_ESC.gtf	ESC_rep1	no_cap	1	tissue:ESC

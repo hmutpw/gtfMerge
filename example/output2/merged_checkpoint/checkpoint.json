@@ -1,0 +1,56 @@
+{
+  "completed_chroms": [
+    "chr1"
+  ],
+  "started_at": "2026-04-29 06:01:58.418030",
+  "params": {
+    "input": "filelist.tsv",
+    "output": "output2/merged",
+    "ref_gtf": "reference_annotation.gtf",
+    "id_prefix": "NOVEL_",
+    "chr_style": "auto",
+    "platform": "pacbio",
+    "junction_thresh": 3,
+    "max_5trunc": -1,
+    "max_3trunc": 1,
+    "min_similarity": 0.9,
+    "similarity_w1": 0.7,
+    "similarity_w2": 0.3,
+    "require_canonical": false,
+    "tss_thresh": 200,
+    "tes_thresh": 50,
+    "tss_strategy": "longest",
+    "tes_strategy": "freq",
+    "mono_overlap": 0.5,
+    "mono_3end": 50,
+    "mono_5end": 500,
+    "mono_min_length": 100,
+    "mono_strand_specific": true,
+    "inherit_gene_id": true,
+    "junction_ref": true,
+    "novel_gene_prefix": "NOVEL",
+    "min_samples": 1,
+    "min_transcript_len": 100,
+    "min_exon_len": 10,
+    "min_intron_len": 60,
+    "output_singleton": true,
+    "output_tracking": true,
+    "output_stats": true,
+    "compress": false,
+    "threads": 2,
+    "tmp_dir": "/tmp",
+    "keep_tmp": false,
+    "checkpoint_dir": "output2/merged_checkpoint",
+    "resume": false,
+    "force": false,
+    "verbose": true,
+    "log_file": ""
+  },
+  "chrom_outputs": {
+    "chr1": {
+      "gtf": "/tmp/gtf_merge_47/chr1.gtf",
+      "tracking": "/tmp/gtf_merge_47/chr1.tracking.tsv",
+      "time": "2026-04-29 06:01:58.423707"
+    }
+  }
+}

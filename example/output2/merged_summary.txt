@@ -1,0 +1,20 @@
+============================================================
+GTF Merge Summary
+============================================================
+Version      : 0.1.0
+Date         : 2026-04-29 06:01:58
+Elapsed      : 0.0s
+
+Input samples: 3
+Input transcripts: 16
+
+--- Multi-exon ---
+  Exact merged  : 8
+  Fuzzy merged  : 5
+
+--- Mono-exon ---
+  Merged        : 2
+
+Total output transcripts: 15
+Total genes             : 6
+============================================================

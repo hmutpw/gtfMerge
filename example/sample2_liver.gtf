@@ -1,0 +1,27 @@
+##gtf-version 2.2
+##source IsoQuant
+##sample liver_rep1
+chr1	IsoQuant	gene	1001	5000	.	+	.	gene_id "ENSMUSG00000000001"; gene_name "Actb";
+chr1	IsoQuant	transcript	1501	5000	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001.liver"; gene_name "Actb";
+chr1	IsoQuant	exon	1501	1800	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001.liver";
+chr1	IsoQuant	exon	2001	2300	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001.liver";
+chr1	IsoQuant	exon	2601	3000	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001.liver";
+chr1	IsoQuant	exon	3201	5000	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001.liver";
+chr1	IsoQuant	gene	6001	9500	.	+	.	gene_id "ENSMUSG00000000002"; gene_name "Gapdh";
+chr1	IsoQuant	transcript	6002	9500	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002.liver"; gene_name "Gapdh";
+chr1	IsoQuant	exon	6002	6300	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002.liver";
+chr1	IsoQuant	exon	6601	6900	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002.liver";
+chr1	IsoQuant	exon	7201	7601	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002.liver";
+chr1	IsoQuant	exon	7901	9500	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002.liver";
+chr1	IsoQuant	gene	11001	13000	.	-	.	gene_id "ENSMUSG00000000003"; gene_name "Tnf";
+chr1	IsoQuant	transcript	11001	12100	.	-	.	gene_id "ENSMUSG00000000003"; transcript_id "ENSMUST00000000003.liver"; gene_name "Tnf";
+chr1	IsoQuant	exon	11001	11400	.	-	.	gene_id "ENSMUSG00000000003"; transcript_id "ENSMUST00000000003.liver";
+chr1	IsoQuant	exon	11701	12100	.	-	.	gene_id "ENSMUSG00000000003"; transcript_id "ENSMUST00000000003.liver";
+chr1	IsoQuant	gene	15001	16500	.	+	.	gene_id "NOVEL_TE_001"; gene_name "NA";
+chr1	IsoQuant	transcript	15100	16500	.	+	.	gene_id "NOVEL_TE_001"; transcript_id "transcript3.chr1.nnic";
+chr1	IsoQuant	exon	15100	16500	.	+	.	gene_id "NOVEL_TE_001"; transcript_id "transcript3.chr1.nnic";
+chr1	IsoQuant	gene	20001	23000	.	+	.	gene_id "NOVEL_GENE_001"; gene_name "NA";
+chr1	IsoQuant	transcript	20001	23000	.	+	.	gene_id "NOVEL_GENE_001"; transcript_id "transcript4.chr1.nnic";
+chr1	IsoQuant	exon	20001	20500	.	+	.	gene_id "NOVEL_GENE_001"; transcript_id "transcript4.chr1.nnic";
+chr1	IsoQuant	exon	21001	21500	.	+	.	gene_id "NOVEL_GENE_001"; transcript_id "transcript4.chr1.nnic";
+chr1	IsoQuant	exon	22001	23000	.	+	.	gene_id "NOVEL_GENE_001"; transcript_id "transcript4.chr1.nnic";

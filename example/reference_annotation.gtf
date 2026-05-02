@@ -1,0 +1,23 @@
+##gtf-version 2.2
+##provider GENCODE
+##format gff2
+##date 2024-01-01
+##description toy reference annotation for GTF Merge example
+chr1	HAVANA	gene	1001	5000	.	+	.	gene_id "ENSMUSG00000000001"; gene_name "Actb"; gene_biotype "protein_coding";
+chr1	HAVANA	transcript	1001	5000	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001"; gene_name "Actb"; transcript_biotype "protein_coding";
+chr1	HAVANA	exon	1001	1200	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001";
+chr1	HAVANA	exon	1501	1800	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001";
+chr1	HAVANA	exon	2001	2300	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001";
+chr1	HAVANA	exon	2601	3000	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001";
+chr1	HAVANA	exon	3201	5000	.	+	.	gene_id "ENSMUSG00000000001"; transcript_id "ENSMUST00000000001";
+chr1	HAVANA	gene	6001	9500	.	+	.	gene_id "ENSMUSG00000000002"; gene_name "Gapdh"; gene_biotype "protein_coding";
+chr1	HAVANA	transcript	6001	9500	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002"; gene_name "Gapdh"; transcript_biotype "protein_coding";
+chr1	HAVANA	exon	6001	6300	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002";
+chr1	HAVANA	exon	6601	6900	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002";
+chr1	HAVANA	exon	7201	7600	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002";
+chr1	HAVANA	exon	7901	9500	.	+	.	gene_id "ENSMUSG00000000002"; transcript_id "ENSMUST00000000002";
+chr1	HAVANA	gene	11001	13000	.	-	.	gene_id "ENSMUSG00000000003"; gene_name "Tnf"; gene_biotype "protein_coding";
+chr1	HAVANA	transcript	11001	13000	.	-	.	gene_id "ENSMUSG00000000003"; transcript_id "ENSMUST00000000003"; gene_name "Tnf"; transcript_biotype "protein_coding";
+chr1	HAVANA	exon	11001	11400	.	-	.	gene_id "ENSMUSG00000000003"; transcript_id "ENSMUST00000000003";
+chr1	HAVANA	exon	11701	12100	.	-	.	gene_id "ENSMUSG00000000003"; transcript_id "ENSMUST00000000003";
+chr1	HAVANA	exon	12401	13000	.	-	.	gene_id "ENSMUSG00000000003"; transcript_id "ENSMUST00000000003";
