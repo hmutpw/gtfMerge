@@ -26,7 +26,7 @@ Designed for merging hundreds of samples while preserving complete provenance tr
 pip install gtf-merge
 
 # From GitHub (recommended)
-git clone https://github.com/yourusername/gtf-merge
+git clone https://github.com/hmutpw/gtfMerge
 cd gtf-merge
 pip install -e .
 
